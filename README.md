@@ -1,9 +1,7 @@
-Hi, I'm Gabriel.
+Hello, my name is Gabriel.
 
-I'm a programming student, currently studying Java.
-I have little knowledge in mongoDB, HTML5 and CSS3.
+I am a Back-End developer specializing in Java. I have experience with relational databases such as SQL and MySQL, as well as non-relational databases like MongoDB.
 
-I'm interested in learning new languages, such as Node.js, React, Python and SQL...
-Looking for my first opportunity as a developer, being Front-end or Back-end
+Feel free to check out some of my projects!
 
-I'm willing to collaborate with whatever it takes!
+I am always open to collaborating and contributing to new challenges and opportunities.
